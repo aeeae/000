@@ -1,4 +1,4 @@
-
+// cdn缓存
 const App = {
     plugins: [],
     
